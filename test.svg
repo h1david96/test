@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-	<response status="error">
-		<portal>DUB2-PARTNER-GW-N</portal>
-		<user><svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg></user>
-		<error>Invalid authentication cookie</error>
-		<quarantine>no</quarantine>
-	</response>
+<svg xmlns="http://www.w3.org/2000/svg"><script>prompt("XSS")</script></svg>
