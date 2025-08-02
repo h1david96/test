@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 124 124" fill="none">
+  <defs>
+    <pattern id="p" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <image href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' onload='alert(0x539)'></svg>"/>
+    </pattern>
+  </defs>
+  <rect width="124" height="124" rx="24" fill="url(#p)"/>
+</svg>
